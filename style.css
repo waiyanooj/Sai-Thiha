@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&family=SUSE:wght@100..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "SUSE", sans-serif;
+}
+
+body{
+    background: pink;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 50px;
+}
+
+.img img{
+    width: 200px;
+    align-items: center;
+    text-align: center;
+    margin-left: 43%;
+    margin-top: 6%;
+}
+
+.ii img{
+    position: absolute;
+    background: #000;
+    border-radius: 50%;
+    margin-left: 34%;
+    margin-top: -9%;
+}
+
+.text h2{
+    position: absolute;
+    margin-top: -7%;
+    margin-left: 20%;
+}

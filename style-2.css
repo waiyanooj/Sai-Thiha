@@ -1,0 +1,26 @@
+body{
+    background: pink;
+}
+
+.img img{
+    width: 40%;
+    margin-left: 17%;
+    height: 800px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+.icon a{
+    position: absolute;
+    color: #000;
+    margin-top: -52%;
+    margin-left: 2%;
+}
+
+.p p{
+    color: red;
+    position: absolute;
+    margin-left: 60%;
+    margin-top: -31%;
+    font-size: 28px;
+}
